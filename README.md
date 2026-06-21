@@ -88,7 +88,7 @@ Used to classify demand levels into high-demand and low-demand categories for pr
 
 ### Actual vs Predicted Bike Demand
 
-![Regression Analysis](actual_vs_predicted_bike_demand.png)
+![Regression Analysis](https://github.com/Deepak-3357/bike-demand-prediction-system/blob/main/actual_vs_predicted_bike_demand..png)
 
 ### Logistic Regression Confusion Matrix
 
